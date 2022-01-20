@@ -2,7 +2,7 @@
 #include <iostream>
 extern void f();
 extern double x, result;
-void main()
+int main()
 {
 	using namespace std;
 	cout << "x=";

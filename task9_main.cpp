@@ -1,6 +1,6 @@
 //task9_main.cpp
 #include "func9.h"
-void main()
+int main()
 {
 	using namespace std;
 	cout << "x=";

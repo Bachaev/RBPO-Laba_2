@@ -2,7 +2,7 @@
 #include <cmath>
 void f();
 double x, result;
-void main()
+int main()
 {
 	using namespace std;
 	cout << "x=";

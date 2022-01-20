@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 double f(double x);
-void main()
+int main()
 {
 	using namespace std;
 	double x;

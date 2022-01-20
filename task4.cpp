@@ -2,7 +2,7 @@
 #include <cmath>
 void f(const double& x, double& result);
 
-void main()
+int main()
 {
 	using namespace std;
 	double x, result;
