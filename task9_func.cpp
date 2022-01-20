@@ -1,5 +1,6 @@
 //task9_func.cpp
 #include "func9.h"
+#include <cmath>
 double x, result;
 namespace Bachaev
 {

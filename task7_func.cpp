@@ -1,6 +1,6 @@
 //task7_func.cpp
 #include <iostream>
-
+#include <cmath>
 double x, result;
 void f()
 {

@@ -1,5 +1,6 @@
 //task8_func.cpp
 #include "func.h"
+#include <cmath>
 double x, result;
 void f()
 {

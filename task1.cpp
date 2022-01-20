@@ -1,6 +1,6 @@
 #include <iostream>
-
-void main()
+#include <cmath>
+int main()
 {
 	using namespace std;
 	double x, f;

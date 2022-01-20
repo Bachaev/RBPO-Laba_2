@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 void f();
 double x, result;
 void main()
